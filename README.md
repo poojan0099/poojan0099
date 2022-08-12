@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 
 <br>
--------
-
 
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with Me
