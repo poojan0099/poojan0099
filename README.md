@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 
 ### Languages, Frameworks and Stacks
 
-
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-1572B6?style=for-the-badge&logo=FLASK&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/SELENIUM-black?style=for-the-badge&logo=SELENIUM&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-00C7B7?style=for-the-badge&logo=heroku&logoColor=white)
 
