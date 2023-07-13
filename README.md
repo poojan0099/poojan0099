@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Hey there 👋, I am Poojan
 
-#### I am Computer Engineering Student
+#### I am Computer Engineer
 
--   ✨ I’m currently a trainee at Fynd Academy.
--   🔭 These days I'm learning Manual and Automation testing using Java and selenium.
+-   ✨ Senior Analyst at EY.
+-   🔭 Results-driven Computer Science Engineer proficient in Java, Python, and advanced OOPS concepts.
 -   ⚡ Fun fact: I love scraping data using python and beautiful soup.
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25" /> My Skills
